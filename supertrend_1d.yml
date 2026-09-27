@@ -2,7 +2,7 @@ name: Supertrend 1D Scanner
 
 on:
   schedule:
-    - cron: "17 * * * *"
+    - cron: "2 * * * *"
   workflow_dispatch:
 
 jobs:
